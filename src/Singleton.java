@@ -7,7 +7,7 @@ public class Singleton {
     // -Singleton
 
     private Singleton() {
-        System.out.println("Constructor singleton");
+        System.out.println("Constructeur singleton");
 
 
     }
